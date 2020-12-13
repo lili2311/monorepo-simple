@@ -24,7 +24,7 @@
     "marked": "0.3.17",
     "method-override": "latest",
     "moment": "2.19.3",
-    "mongoose": "4.11.14",
+    "mongoose": "5.11.7",
     "morgan": "latest",
     "ms": "^2.0.0",
     "npmconf": "2.0.9",
