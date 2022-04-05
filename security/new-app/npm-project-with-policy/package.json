@@ -23,7 +23,7 @@
     "humanize-ms": "1.2.1",
     "marked": "0.3.17",
     "method-override": "latest",
-    "moment": "2.19.3",
+    "moment": "2.29.2",
     "mongoose": "4.11.14",
     "morgan": "latest",
     "ms": "^2.0.0",
